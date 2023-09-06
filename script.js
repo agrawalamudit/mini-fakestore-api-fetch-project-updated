@@ -1,4 +1,4 @@
-let one = document.querySelector(".one");
+let one = document.querySelector(".one"); 
 let two = document.querySelector(".two");
 let three = document.querySelector(".three");
 let four = document.querySelector(".four");
